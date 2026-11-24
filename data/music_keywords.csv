@@ -1,0 +1,103 @@
+keyword,category,weight
+lyrics,music_specific,4
+song,music_specific,4
+tracklist,music_specific,4
+discography,music_specific,4
+songwriter,music_specific,4
+music video,music_specific,4
+song lyrics,music_specific,4
+chord progression,music_specific,4
+sheet music,music_specific,4
+歌詞,music_specific,4
+歌曲,music_specific,4
+曲目,music_specific,4
+專輯曲目,music_specific,4
+音樂錄影帶,music_specific,4
+樂譜,music_specific,4
+吉他譜,music_specific,4
+歌詞翻譯,music_specific,4
+作詞作曲,music_specific,4
+album,music_general,3
+artist,music_general,3
+singer,music_general,3
+band,music_general,3
+music,music_general,3
+musician,music_general,3
+single,music_general,3
+soundtrack,music_general,3
+record label,music_general,3
+playlist,music_general,3
+chorus,music_general,3
+verse,music_general,3
+歌手,music_general,3
+專輯,music_general,3
+單曲,music_general,3
+樂團,music_general,3
+音樂,music_general,3
+歌單,music_general,3
+原聲帶,music_general,3
+副歌,music_general,3
+主歌,music_general,3
+音樂人,music_general,3
+唱片公司,music_general,3
+composer,music_context,2
+lyricist,music_context,2
+producer,music_context,2
+featuring,music_context,2
+remix,music_context,2
+acoustic,music_context,2
+instrumental,music_context,2
+live performance,music_context,2
+concert,music_context,2
+music review,music_context,2
+album review,music_context,2
+song meaning,music_context,2
+release date,music_context,2
+作曲,music_context,2
+作詞,music_context,2
+編曲,music_context,2
+音樂製作人,music_context,2
+演唱會,music_context,2
+現場演出,music_context,2
+翻唱,music_context,2
+混音,music_context,2
+歌曲解析,music_context,2
+專輯評論,music_context,2
+發行日期,music_context,2
+Spotify,music_platform,2
+Apple Music,music_platform,2
+Genius,music_platform,2
+Musixmatch,music_platform,2
+KKBOX,music_platform,2
+YouTube Music,music_platform,2
+SoundCloud,music_platform,2
+Bandcamp,music_platform,2
+StreetVoice,music_platform,2
+音樂串流,music_platform,2
+listen,weak_music_signal,1
+cover,weak_music_signal,1
+official audio,weak_music_signal,1
+完整版,weak_music_signal,1
+試聽,weak_music_signal,1
+grammar,non_music_context,-2
+synonym,non_music_context,-2
+antonym,non_music_context,-2
+pronunciation,non_music_context,-2
+part of speech,non_music_context,-2
+example sentence,non_music_context,-2
+文法,non_music_context,-2
+同義詞,non_music_context,-2
+反義詞,non_music_context,-2
+詞性,non_music_context,-2
+例句,non_music_context,-2
+單字解釋,non_music_context,-2
+dictionary,non_music_specific,-4
+thesaurus,non_music_specific,-4
+English dictionary,non_music_specific,-4
+English-Chinese dictionary,non_music_specific,-4
+字典,non_music_specific,-4
+辭典,non_music_specific,-4
+英漢字典,non_music_specific,-4
+英英字典,non_music_specific,-4
+字詞典,non_music_specific,-4
+國語辭典,non_music_specific,-4
